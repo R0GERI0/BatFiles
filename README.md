@@ -1,4 +1,4 @@
-# <img src="https://cdn-icons-png.flaticon.com/512/1792/1792350.png" width=30 height=30 title="BatFile"> BatFiles
+# <img src="https://cdn-icons-png.flaticon.com/512/1792/1792350.png" width=30 height=30 title="BatchFile"> BatchFiles
 
 ### Arquivos de Lote
 Repositório para pequenos projetos de arquivos ShellScript úteis.
